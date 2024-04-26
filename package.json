@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/mjmandelah07/teamwork-backend-2#readme",
   "dependencies": {
-    "ejs": "^3.1.10",
     "express": "^4.19.2"
   }
 }
